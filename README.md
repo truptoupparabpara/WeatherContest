@@ -15,7 +15,7 @@ SNS 데이터 (트위터 제공)
 <br>
 
 | 이름 <br>(Name) | 소속 | 최근에 한 일 <br>(log : Work Update) |
-|---|:---:|---:|
+|---|:---:|:---:|
 | 최윤영 | 이화여자대학교 / 통계학3 | a |
 | 장문경 | 세종대학교 / 컴퓨터공학3 | b |
 | 나영채 | 세종대학교 / 생명공학1 | c |
@@ -28,8 +28,8 @@ SNS 데이터 (트위터 제공)
 
 <br>
 
-| 이름 (Name) | 제목, URL (Title / URL) |
-|---|:---:|
+| 이름 (Name) | 제목, URL<br> (Title / URL) |
+|:---:|:---:|
 | 최윤영 | 1. 트위터 비공식 크롤링 도구 https://github.com/truptoupparabpara/twitterscraper<br>2. 위 소스의 예제코드 https://fouaaa.blogspot.com/2019/01/capstone-design-twitterscraper-python.html|
 | 장문경 | 세종대학교 / 컴퓨터공학3 |
 | 나영채 | 세종대학교 / 생명공학1 |
