@@ -25,8 +25,7 @@ SNS 데이터 (트위터 제공)
 
 | 이름 (Name) | 제목, URL (Title / URL) |
 |---|:---:|
-| 최윤영 | 1. https://github.com/truptoupparabpara/twitterscraper<br>
-2. 위 소스의 예제코드 https://fouaaa.blogspot.com/2019/01/capstone-design-twitterscraper-python.html|
+| 최윤영 | 1. https://github.com/truptoupparabpara/twitterscraper<br>2. 위 소스의 예제코드 https://fouaaa.blogspot.com/2019/01/capstone-design-twitterscraper-python.html|
 | 장문경 | 세종대학교 / 컴퓨터공학3 |
 | 나영채 | 세종대학교 / 생명공학1 |
 | 이장후 | R을 이용한 데이터 분석 1. http://ruck2015.r-kor.org/handout/sentiment_analysis_hyungjunkim.pdf |
