@@ -28,4 +28,4 @@ SNS 데이터 (트위터 제공)
 | 최윤영 | 이화여자대학교 / 통계학3 |
 | 장문경 | 세종대학교 / 컴퓨터공학3 |
 | 나영채 | 세종대학교 / 생명공학1 |
-| 이장후 | http://ruck2015.r-kor.org/handout/sentiment_analysis_hyungjunkim.pdf |
+| 이장후 | 1. http://ruck2015.r-kor.org/handout/sentiment_analysis_hyungjunkim.pdf |
