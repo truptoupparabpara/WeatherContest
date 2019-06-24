@@ -10,7 +10,7 @@ SNS 데이터 (트위터 제공)
 
 <br>
 ## Members & Contribution
-
+<br>
 | 이름 (Name) | 소속 | 최근에 한 일 (log : Work Update) |
 |---|:---:|---:|
 | 최윤영 | 이화여자대학교 / 통계학3 | a |
@@ -21,7 +21,7 @@ SNS 데이터 (트위터 제공)
 
 <br>
 ## 참고 자료
-
+<br>
 | 이름 (Name) | 제목, URL (Title / URL) |
 |---|:---:|
 | 최윤영 | 1. 트위터 비공식 크롤링 도구 https://github.com/truptoupparabpara/twitterscraper<br>2. 위 소스의 예제코드 https://fouaaa.blogspot.com/2019/01/capstone-design-twitterscraper-python.html|
