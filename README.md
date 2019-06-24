@@ -40,15 +40,14 @@ Topic : 날씨에 따라서 먹고 싶은 음식, 먹는 음식의 경향성 상
 
 <br>
 
-## 트위터 관련
-> 트위터의 텍스트 분석에 쓸 자연어 처리 관련 자료들을 올려놓겠습니다.
-- [마이크로소프트 Azure 텍스트분석](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
-  - [언어지원현황](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
+> 트위터 크롤링 관련
 - [트위터 비공식 크롤링 도구](https://github.com/truptoupparabpara/twitterscraper)
   - [예제코드](https://fouaaa.blogspot.com/2019/01/capstone-design-twitterscraper-python.html)
 
-## 감정분석 관련
+> 감정분석 관련
 - [R을 이용한 감정 분석](http://ruck2015.r-kor.org/handout/sentiment_analysis_hyungjunkim.pdf)
+- [마이크로소프트 Azure 텍스트분석](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
+  - [언어지원현황](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
 
 
 
