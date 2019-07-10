@@ -11,6 +11,7 @@ timesteps = sequence_length = 7
 data_dim = 5
 data_lim = 5
 
+
 #about Y and hidden size
 hidden_size = 1
 hidden_dim = 10
@@ -18,7 +19,7 @@ output_dim = 5
 
 
 #about training
-learning_rate = 0.3
+learning_rate = 0.02
 epoch = 1
 
 
