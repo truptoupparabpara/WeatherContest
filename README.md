@@ -30,7 +30,9 @@ Topic : 날씨에 따라서 먹고 싶은 음식, 먹는 음식의 경향성 상
 
 | 목차 | 내용 |
 |:---:|:---|
-| 활용 방안| 연관성을 보여서, 마케팅 자료로 활용할 수 있는 가능성을 보인다. |
+| | |
+| 분석 | |
+| 서비스 활용 방안| 연관성을 보여서, 마케팅 자료로 활용할 수 있는 가능성을 보인다. |
 | | |
 
 
@@ -51,6 +53,8 @@ Topic : 날씨에 따라서 먹고 싶은 음식, 먹는 음식의 경향성 상
 - [마이크로소프트 Azure 텍스트분석](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
   - [언어지원현황](https://docs.microsoft.com/ko-kr/azure/cognitive-services/text-analytics/language-support)
 
+
+> 커피 관련
 
 
 
