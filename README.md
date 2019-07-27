@@ -8,7 +8,7 @@ For 2019 Weather BigData Contest
 **Data From..** <br>
 
 - 날씨 데이터 (기상청 제공)
-- SNS 데이터 (트위터 제공)
+- 네이버 데이터랩 데이터 (네이버 제공)
 
 
 <br>
